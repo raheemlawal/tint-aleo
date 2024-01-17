@@ -6,6 +6,9 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         Tint!
       </div>
+      <div>
+        On-Chain Analytics for Aleo
+      </div>
     </main>
   )
 }
