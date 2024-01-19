@@ -7,6 +7,9 @@ export default function Home() {
         Tint!
       </div>
       <div>
+        Calls: [getX, getY, getZ]
+      </div>
+      <div>
         On-Chain Analytics for Aleo
       </div>
     </main>
