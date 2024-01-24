@@ -7,6 +7,9 @@ export default function Home() {
         Tint!
       </div>
       <div>
+        No data to retrieve yet.
+      </div>
+      <div>
         Calls: [getX, getY, getZ]
       </div>
       <div>
